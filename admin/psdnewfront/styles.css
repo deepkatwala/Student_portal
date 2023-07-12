@@ -1,0 +1,169 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	border-style:solid;
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 638px;
+	 height: 1013px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 638px;
+	 height: 1013px;
+	 z-index:1;
+} 
+
+ #Rectangle2 
+{ 
+	 left: -3px; 
+	 top: -3px; 
+	 position: absolute; 
+	 width: 642px;
+	 height: 1019px;
+	 z-index:2;
+} 
+
+ #Layer1 
+{ 
+	 left: 149px; 
+	 top: 62px; 
+	 position: absolute; 
+	 width: 341px;
+	 height: 126px;
+	 z-index:3;
+} 
+
+ #Rectangle1 
+{ 
+	 left: 33px; 
+	 top: 862px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 114px;
+	 z-index:4;
+} 
+
+ #wwwdiamondmelacom 
+{ 
+	 left: 155px; 
+	 top: 203px; 
+	 position: absolute; 
+	 width: 329px;
+	 height: 27px;
+	 z-index:5;
+}
+#NAMESURNAME1
+{ 
+	 left: 149px; 
+	 top: 564px; 
+	 position: absolute; 
+	 width: 343px;
+	 height: 36px;
+	 z-index:6;
+}  
+
+ #NAMESURNAME 
+{ 
+	 left: 149px; 
+	 top: 564px; 
+	 position: absolute; 
+	 width: 343px;
+	 height: 36px;
+	 z-index:6;
+} 
+
+ #Designation 
+{ 
+	 left: 238px; 
+	 top: 635px; 
+	 position: absolute; 
+	 width: 350px;
+	 height: 32px;
+	 z-index:7;
+} 
+
+
+
+ #Employeeno00000 
+{ 
+	 left: 175px; 
+	 top: 673px; 
+	 position: absolute; 
+	 width: 350px;
+	 height: 35px;
+	 z-index:8;
+} 
+
+ #BloodGroupB 
+{ 
+	 left: 204px; 
+	 top: 714px; 
+	 position: absolute; 
+	 width: 350px;
+	 height: 35px;
+	 z-index:9;
+} 
+
+ #Contact919876543210 
+{ 
+	 left: 124px; 
+	 top: 759px; 
+	 position: absolute; 
+	 width: 389px;
+	 height: 24px;
+	 z-index:10;
+} 
+
+ #Layer0copy 
+{ 
+	 left: -725px; 
+	 top: 15px; 
+	 position: absolute; 
+	 width: 864px;
+	 height: 987px;
+	 z-index:11;
+} 
+
+ #Layer2 
+{ 
+	 left: 404px; 
+	 top: 808px; 
+	 position: absolute; 
+	 width: 199px;
+	 height: 170px;
+	 z-index:12;
+} 
+
+ #AuthorizedSignature 
+{ 
+	 left: 353px; 
+	 top: 958px; 
+	 position: absolute; 
+	 width: 267px;
+	 height: 34px;
+	 z-index:13;
+} 
+
+ #RoundedRectangle1 
+{ 
+	 left: 217px; 
+	 top: 274px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 252px;
+	 z-index:14;
+} 

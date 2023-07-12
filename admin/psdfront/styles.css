@@ -1,0 +1,285 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1016px;
+	 height: 638px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Layer0 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1016px;
+	 height: 638px;
+	 z-index:1;
+} 
+
+ #Layer1 
+{ 
+	 left: 2px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1012px;
+	 height: 638px;
+	 z-index:2;
+} 
+
+ /*#Rectangle1 
+{ 
+	 left: -1px; 
+	 top: -24px; 
+	 position: absolute; 
+	 width: 1018px;
+	 height: 256px;
+	 z-index:3;
+} 
+
+ #Layer3copy 
+{ 
+	 left: -16px; 
+	 top: 3px; 
+	 position: absolute; 
+	 width: 1220px;
+	 height: 244px;
+	 z-index:4;
+} */
+ #Rectangle1 
+{ 
+	 left: -1px; 
+	 top: 575px; 
+	 position: absolute; 
+	 width: 1018px;
+	 height: 257px;
+	 z-index:3;
+} 
+
+ #Layer3copy 
+{ 
+	 left: -16px; 
+	 top: 578px; 
+	 position: absolute; 
+	 width: 1045px;
+	 height: 209px;
+	 z-index:4;
+}
+ #layer_5 
+{ 
+	 left: 805px; 
+	 top: 380px; 
+	 position: absolute; 
+	 width: 3px;
+	 height: 120px;
+	 z-index:5;
+} 
+
+ #layer_6 
+{ 
+	 left: 243px; 
+	 top: 380px; 
+	 position: absolute; 
+	 width: 3px;
+	 height: 154px;
+	 z-index:6;
+} 
+
+ #cop 
+{ 
+	 left: 448px; 
+	 top: 380px; 
+	 position: absolute; 
+	 width: 3px;
+	 height: 154px;
+	 z-index:7;
+} 
+
+ #Signature 
+{ 
+	 left: 844px; 
+	 top: 500px; 
+	 position: absolute; 
+	 width: 125px;
+	 height: 25px;
+	 z-index:8;
+} 
+
+ #Layer3 
+{ 
+	 left: 829px; 
+	 top: 380px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 98px;
+	 z-index:9;
+} 
+
+ #12345678900freepsdfr 
+{ 
+	 left: 488px; 
+	 top: 501px; 
+	 position: absolute; 
+	 width: 289px;
+	 height: 90px;
+	 z-index:10;
+} 
+
+ #DOB31022021 
+{ 
+	 left: 51px; 
+	 top: 380px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 57px;
+	 z-index:11;
+} 
+
+ #GenderFemale 
+{ 
+	 left: 277px; 
+	 top: 380px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 55px;
+	 z-index:12;
+} 
+
+ #EmpNo78945600 
+{ 
+	 left: 278px; 
+	 top: 430px; 
+	 position: absolute; 
+	 width: 127px;
+	 height: 54px;
+	 z-index:13;
+} 
+
+ #Dateofissue01032017 
+{ 
+	 left: 49px; 
+	 top: 430px; 
+	 position: absolute; 
+	 width: 164px;
+	 height: 59px;
+	 z-index:14;
+} 
+
+ #Rectangle2 
+{ 
+	 left: 839px; 
+	 top: 256px; 
+	 position: absolute; 
+	 width: 130px;
+	 height: 130px;
+	 z-index:15;
+} 
+
+ #QRCode 
+{ 
+	 left: 780px; 
+	 top: 130px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 108px;
+	 z-index:16;
+} 
+
+ #Ellipse1 
+{ 
+	 left: 62px; 
+	 top: 66px; 
+	 position: absolute; 
+	 width: 304px;
+	 height: 304px;
+	 z-index:17;
+} 
+
+ #Layer2 
+{ 
+	 left: 24px; 
+	 top: 63px; 
+	 position: absolute; 
+	 width: 353px;
+	 height: 311px;
+	 z-index:18;
+} 
+
+ #JasminDoe 
+{ 
+	 left: 413px; 
+	 top: 90px; 
+	 position: absolute; 
+	 width: 320px;
+	 height: 43px;
+	 z-index:19;
+} 
+
+ #GraphicDesigner 
+{ 
+	 left: 417px; 
+	 top: 150px; 
+	 position: absolute; 
+	 width: 252px;
+	 height: 28px;
+	 z-index:20;
+} 
+
+ #webmart 
+{ 
+	 left: 690px; 
+	 top: 2px; 
+	 position: absolute; 
+	 width: 230px;
+	 height: 39px;
+	 z-index:21;
+} 
+
+ #taglinehere 
+{ 
+	 left: 700px; 
+	 top: 90px; 
+	 position: absolute; 
+	 width: 400px;
+	 height: 13px;
+	 z-index:22;
+} 
+
+ #Shape4copy2 
+{ 
+	 left: 628px; 
+	 top: 50px; 
+	 position: absolute; 
+	 width: 68px;
+	 height: 108px;
+	 z-index:23;
+} 
+
+ #Shape4copy2_0 
+{ 
+	 left: 676px; 
+	 top: 83px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 70px;
+	 z-index:24;
+} 
+
+ #PSDFreebiescom 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1016px;
+	 height: 638px;
+	 z-index:25;
+} 

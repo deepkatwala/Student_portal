@@ -1,0 +1,98 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	border-style:solid;
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 638px;
+	 height: 1013px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 638px;
+	 height: 1013px;
+	 z-index:1;
+} 
+
+ #Thisaccesscardisthep 
+{ 
+	 left: 55px; 
+	 top: 71px; 
+	 position: absolute; 
+	 width: 557px;
+	 height: 596px;
+	 z-index:2;
+} 
+
+ #Ellipse1 
+{ 
+	 left: 25px; 
+	 top: 81px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 14px;
+	 z-index:3;
+} 
+
+ #Ellipse1copy 
+{ 
+	 left: 25px; 
+	 top: 271px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 14px;
+	 z-index:4;
+} 
+
+ #Ellipse1copy2 
+{ 
+	 left: 25px; 
+	 top: 383px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 14px;
+	 z-index:5;
+} 
+
+ #Ellipse1copy3 
+{ 
+	 left: 25px; 
+	 top: 533px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 14px;
+	 z-index:6;
+} 
+
+ #EmployeeSignature 
+{ 
+	 left: 348px; 
+	 top: 832px; 
+	 position: absolute; 
+	 width: 258px;
+	 height: 30px;
+	 z-index:7;
+} 
+
+ #Iffoundpleasereturnt 
+{ 
+	 left: 22px; 
+	 top: 912px; 
+	 position: absolute; 
+	 width: 592px;
+	 height: 87px;
+	 z-index:8;
+} 
