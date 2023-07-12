@@ -1,0 +1,15 @@
+[23-Mar-2023 17:14:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home/kppoi1vkpzyp/public_html/myjainism.in/Student Portal/user/includes/dbconnection.php on line 2
+[23-Mar-2023 17:14:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kppoi1vkpzyp/public_html/myjainism.in/Student Portal/index.php on line 69
+[23-Mar-2023 17:14:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kppoi1vkpzyp/public_html/myjainism.in/Student Portal/index.php on line 70
+[24-Mar-2023 02:09:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'Admin'@'localhost' (using password: YES) in /home/kppoi1vkpzyp/public_html/myjainism.in/Student Portal/user/includes/dbconnection.php on line 2
+[24-Mar-2023 02:09:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kppoi1vkpzyp/public_html/myjainism.in/Student Portal/index.php on line 69
+[24-Mar-2023 02:09:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kppoi1vkpzyp/public_html/myjainism.in/Student Portal/index.php on line 70
+[24-Mar-2023 02:09:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'Admin'@'localhost' (using password: YES) in /home/kppoi1vkpzyp/public_html/myjainism.in/Student Portal/user/includes/dbconnection.php on line 2
+[24-Mar-2023 02:09:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kppoi1vkpzyp/public_html/myjainism.in/Student Portal/index.php on line 69
+[24-Mar-2023 02:09:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kppoi1vkpzyp/public_html/myjainism.in/Student Portal/index.php on line 70
+[24-Mar-2023 15:30:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'Admin'@'localhost' (using password: YES) in /home/kppoi1vkpzyp/public_html/myjainism.in/Student Portal/user/includes/dbconnection.php on line 2
+[24-Mar-2023 15:30:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kppoi1vkpzyp/public_html/myjainism.in/Student Portal/index.php on line 69
+[24-Mar-2023 15:30:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kppoi1vkpzyp/public_html/myjainism.in/Student Portal/index.php on line 70
+[24-Mar-2023 15:57:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'Admin'@'localhost' (using password: YES) in /home/kppoi1vkpzyp/public_html/myjainism.in/Student Portal/user/includes/dbconnection.php on line 2
+[24-Mar-2023 15:57:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kppoi1vkpzyp/public_html/myjainism.in/Student Portal/index.php on line 69
+[24-Mar-2023 15:57:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kppoi1vkpzyp/public_html/myjainism.in/Student Portal/index.php on line 70
